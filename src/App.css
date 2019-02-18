@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+h1{
+  display: flex ;
+ }
+ h6{color: grey;
+   display: flex ;
+   margin-top: -7%;
+   margin-left: 0.5%
+ 
+ }
